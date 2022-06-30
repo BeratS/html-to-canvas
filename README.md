@@ -5,7 +5,7 @@ Simple and fast conversion from html dom to canvas
 # Usage
 
 ```
-    npm i html-to-canvas
+    npm i html-canvas-ts
 ```
 
 Clone the seed app with

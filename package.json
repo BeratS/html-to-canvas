@@ -1,5 +1,5 @@
 {
-  "name": "html-to-canvas",
+  "name": "html-canvas-ts",
   "version": "1.0.0",
   "description": "Can log \"html to canvas\" to the console!",
   "main": "dist/index.js",
